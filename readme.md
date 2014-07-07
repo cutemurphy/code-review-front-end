@@ -1,6 +1,6 @@
 # Code Review Checklist for Front-End Developers
 
-
+谔谔
 The goal is not to define a formal definition of practices for code review but to give some checklist for reviewers. 
 
 Of course, it helps a developer to know how the reviewer does his code review. He can so focus on writing a better and simpler code.
